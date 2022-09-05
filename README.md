@@ -4,6 +4,7 @@
 - :hammer_and_wrench: Recently I've been exploring web development
 - 🌱 I’m currently learning mySQL and Vue.js
 - 📫 How to reach me: joshua.burdick2@gmail.com
+
 <br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joshua-Burdick)](https://git.io/streak-stats)
 <br>
