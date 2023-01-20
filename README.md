@@ -2,7 +2,7 @@
 
 - 💻 Computer Science and Math major at SNHU
 - :hammer_and_wrench: Recently I've been exploring web development
-- 🌱 I’m currently learning mySQL and Vue.js
+- 🌱 I’m currently learning mobile development and Vue 3
 - 📫 How to reach me: joshua.burdick2@gmail.com
 
 <br><br>
