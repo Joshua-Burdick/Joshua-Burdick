@@ -1,8 +1,8 @@
 ### Hi there, I'm Joshua Burdick! 👋
 
 - 💻 Computer Science and Math major at SNHU
-- :hammer_and_wrench: Recently I've been exploring web development
-- 🌱 I’m currently learning mobile development and Vue 3
+- 🖱SWE @ Intellibus
+- :hammer_and_wrench: Recently I've been exploring computer networks
 - 📫 How to reach me: joshua.burdick2@gmail.com
 
 <br><br>
