@@ -2,7 +2,7 @@
 
 - 💻 Computer Science and Math major at SNHU
 - 🖱SWE @ Intellibus
-- :hammer_and_wrench: Recently I've been exploring computer networks
+- :hammer_and_wrench: Recently I've begun learning Rust
 - 📫 How to reach me: joshua.burdick2@gmail.com
 
 <br><br>
