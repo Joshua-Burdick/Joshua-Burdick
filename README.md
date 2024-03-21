@@ -3,7 +3,7 @@
 - 💻 Computer Science and Math major at SNHU
 - 🖱SWE @ Intellibus
 - :hammer_and_wrench: Recently I've been learning OpenGL and Rust
-- 📫 How to reach me: joshua.burdick2@gmail.com
+- 📫 How to reach me: joshua.burdick2@gmail.com or [Message Me on LinkedIn](https://www.linkedin.com/in/joshua--burdick/)
 
 <br><br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joshua-Burdick&theme=dark)](https://git.io/streak-stats)
