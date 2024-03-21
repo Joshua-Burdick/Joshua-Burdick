@@ -1,6 +1,6 @@
 ### Hi there, I'm Joshua Burdick! 👋
 
-- 💻 Computer Science and Math major at SNHU
+- 💻 Computer Science and Math major @ SNHU
 - 🖱SWE @ Intellibus
 - :hammer_and_wrench: Recently I've been learning OpenGL and Rust
 - 📫 How to reach me: joshua.burdick2@gmail.com or [Message Me on LinkedIn](https://www.linkedin.com/in/joshua--burdick/)
